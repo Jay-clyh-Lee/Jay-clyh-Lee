@@ -1,11 +1,20 @@
-### Hi there 👋, My name is Jay
-#### Software Engineer
 ![Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+## Jay
+#### Hi there 👋, My name is Jay
 
 I am a full-stack developer student at Coding Dojo, San Jose. I like developing applications very much.  
 
-Skills: Python, MySQL, Flask, Django, Javascript, HTML, CSS, Java, MERN.
+## Skills and Experience:
+* 🐍 Python, 💾MySQL
+* 🖼 Flask, Django
+* 🕸 HTML, CSS, Javascript, Bootstrap
+* ☕ Java
+* 🦈 C#
 
+## Example and Work:
+http://54.241.156.1
+
+## About Me:
 - 🔭 I’m currently working on To become a software engineer. 
 - 🌱 I’m currently learning Application development 
 - 👯 I’m looking to collaborate on real life software development project 
