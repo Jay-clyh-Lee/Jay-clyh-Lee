@@ -15,13 +15,14 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 http://54.241.156.1
 
 ## About Me:
-- 🔭 I’m currently working on To become a software engineer. 
-- 🌱 I’m currently learning Application development 
+- 🔭 I’m currently working on to become a software engineer
+- 🌱 I’m currently learning application development 
 - 👯 I’m looking to collaborate on real life software development project 
 - 🤔 I’m looking for help with finding a full-time job as a developer 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything
 - 📫 How to reach me: jayclyhli@gmail.com 
-- ⚡ Fun fact: I'm a gamer.  
+- ⚡ Fun fact: I'm a gamer
+- 🎁 Another fact: I am gifted 😊 (I just want to show I that can learn whatever you want me to learn, and very fast)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
