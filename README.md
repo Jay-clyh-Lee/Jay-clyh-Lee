@@ -12,7 +12,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 * 🦈 C#
 
 ## Example and Work:
-http://54.241.156.1
+<a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
 
 ## About Me:
 - 🔭 I’m currently working on to become a software engineer
