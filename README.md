@@ -6,13 +6,13 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 
 ## Skills and Experience:
 * 🐍 Python, 💾MySQL
-* 🖼 Flask, Django
+* 🖼 Flask, Django, Spring
 * 🕸 HTML, CSS, Javascript, Bootstrap
 * ☕ Java
 * 🦈 C#
 * 🗃 R, SAS
 ### Technology:
-* 👌 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Spyder, Tableau 
+* 👌 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Spyder, Tableau, AWS Deployment
 
 ## Example and Work:
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
