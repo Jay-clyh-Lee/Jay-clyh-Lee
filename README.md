@@ -5,7 +5,8 @@
 I am a full-stack developer student at Coding Dojo, San Jose. I like developing applications very much.  
 
 ## Skills and Experience:
-* 🐍 Python, 💾MySQL
+* 🐍 Python
+* 💾MySQL
 * 🖼 Flask, Django, Spring
 * 🕸 HTML, CSS, Javascript, Bootstrap
 * ☕ Java
