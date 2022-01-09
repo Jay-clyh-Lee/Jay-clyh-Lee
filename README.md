@@ -6,11 +6,11 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 
 ## Skills and Experience:
 * 🐍 Python
-* 💾MySQL
-* 🖼 Flask, Django, Spring
-* 🕸 HTML, CSS, Javascript, Bootstrap
 * ☕ Java
 * 🦈 C#
+* 💾 MySQL
+* 🖼 Flask, Django, Spring
+* 🕸 HTML, CSS, Javascript, Bootstrap
 * 🗃 R, SAS
 ### Technology:
 * 👌 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Spyder, Tableau, AWS Deployment
