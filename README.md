@@ -19,13 +19,13 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
 
 ## About Me:
-- 🔭 I’m currently working on to become a software engineer
-- 🌱 I’m currently learning application development 
-- 👯 I’m looking to collaborate on real life software development project 
+- 🔭 I’m currently working on becoming a software engineer
+- 🌱 I’m currently learning full-stack application development 
+- 👯 I’m looking to collaborate on real life software development project and full-time position 
 - 🤔 I’m looking for help with finding a full-time job as a developer 
 - 💬 Ask me about anything
 - 📫 How to reach me: jayclyhli@gmail.com 
-- ⚡ Fun fact: I'm a gamer
+- ⚡ Fun fact: I'm a gamer, and I'm pretty good at it competitively.
 - 🎁 Another fact: I am gifted!😊 (I just want to show that I can learn whatever to do a great job at work, and usually pretty fast! 😂)
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/IQ%201-5-2022.png' alt='IQ_cert' height='50'>
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
