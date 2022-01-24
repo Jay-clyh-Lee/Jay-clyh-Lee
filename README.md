@@ -7,7 +7,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 ## Skills and Experience:
 * 🐍 Python 
 * ☕ Java
-* 🦈 C# (self-learning)
+* 🦈 (I want to learn C++ and C#, just not now)
 * 💾 MySQL
 * 🖼 Flask, Django, Spring
 * 🕸 HTML, CSS, Javascript, Bootstrap
