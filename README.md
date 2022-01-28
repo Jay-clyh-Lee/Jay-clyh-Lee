@@ -9,19 +9,20 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 * ☕ Java
 * 🦈 (I want to learn C++ and C#, just not now)
 * 💾 MySQL
-* 🖼 Flask, Django, Spring
+* 🖼 Flask, Django, Spring Boot
 * 🕸 HTML, CSS, Javascript, Bootstrap
 * 🗃 R, SAS
 ### Technology:
-* 👌 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Spyder, Tableau, AWS Deployment
+* 👍 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Anaconda Spyder, AWS EC2 Deployment
+* 👌 (Have experience, but not using) Eclipse, NetBeans, JetBrains, RStudio, Tableau, JMP, MiniTab, Excel
 
 ## Example and Work:
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
 
 ## About Me:
-- 🔭 I’m currently working on becoming a software engineer
+- 🔭 I’m currently pursuing a career in software engineering
 - 🌱 I’m currently learning full-stack application development 
-- 👯 I’m looking to collaborate on real life software development project and full-time position 
+- 👯 I’m looking to collaborate on real life software development project and a full-time position 
 - 🤔 I’m looking for help with finding a full-time job as a developer 
 - 💬 Ask me about anything
 - 📫 How to reach me: jayclyhli@gmail.com 
@@ -30,6 +31,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/IQ%201-5-2022.png' alt='IQ_cert' height='50'>
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
+- More about me: <a href='#'>Visit Bio</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
