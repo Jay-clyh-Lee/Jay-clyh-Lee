@@ -32,7 +32,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
 - Learn more about me: <a href='#'>Visit Bio</a>
-
+- I have a very tough childhood that led to a life full of hardships. I can really use some help. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
 
