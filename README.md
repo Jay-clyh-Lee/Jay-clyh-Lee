@@ -34,7 +34,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - Learn more about me: <a href='#'>Visit Bio</a>
 - I have a very tough childhood that led to a life full of hardships. I can really use some help. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-clyh-Lee&show_icons=true&count_private=true)  
 
