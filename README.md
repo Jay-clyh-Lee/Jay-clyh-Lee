@@ -32,7 +32,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
 - Learn more about me: <a href='#'>Visit Bio</a>
-- I had a very tough childhood that was rather tragic. It inflicted severe mental illnesses and naturally it led to a life full of hardships. I've lost many opportunities(relationships, friendships, career, etc.) because of the illnesses. Of course, there isn't a cure, but it becomes more manageable. I'm slowly getting better and my mind is bit more rational and positive. I should've just be honest and asked for help and understanding instead of hiding my illnesses. Most people are willing to extend a hand to help a stranger. And, I could use some help.
+- I had a very tough childhood and it led to a life full of hardships...
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
 
