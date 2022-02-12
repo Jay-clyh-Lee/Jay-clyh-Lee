@@ -13,8 +13,8 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 * 🕸 HTML, CSS, Javascript, Bootstrap
 * 🗃 R, SAS
 ### Technology:
-* 👍 VSCode, MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Anaconda Spyder, AWS EC2 Deployment
-* 👌 (Have experience, but not using) Eclipse, STS(Spring), NetBeans, PyCharm, JetBrains, RStudio, Tableau, JMP, MiniTab, Excel
+* 👍 VSCode, STS(Spring), MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Anaconda Spyder, AWS EC2 Deployment
+* 👌 Eclipse, NetBeans, PyCharm, JetBrains, RStudio, Tableau, JMP, MiniTab, Excel
 
 ## Example and Work:
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
