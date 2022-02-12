@@ -27,13 +27,13 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - 💬 Ask me about anything
 - 📫 How to reach me: jayclyhli@gmail.com 
 - ⚡ Fun fact: I'm a gamer, and I'm pretty good at it competitively.
-- 🎁 Another fact: I am gifted!😊 (I just want to show that I can learn whatever to do a great job at work, and usually pretty fast! 😂)
+- 🎁 Another fact: I am gifted!😊(Sure it's good a trait, but it can be terrible at the same time. The point here is I just want to show that I can learn whatever to do a great job at work, and usually pretty fast!)
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/IQ%201-5-2022.png' alt='IQ_cert' height='50'>
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
 - Learn more about me: <a href='#'>Visit Bio</a>
-- I have a very tough childhood that led to a life full of hardships. I can really use some help. 
-
+- I had a very tough childhood that was rather tragic. It inflicted severe mental illnesses and naturally it led to a life full of hardships. I've lost many opportunities(relationships, friendships, career, etc.) because of the illnesses. Of course, there isn't a cure, but it becomes more manageable. I'm slowly getting better and my mind is bit more rational and positive. I should've just be honest and asked for help and understanding instead of hiding my illnesses. Most people are willing to extend a hand to help a stranger. And, I could use some help.
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-clyh-Lee&show_icons=true&count_private=true)  
