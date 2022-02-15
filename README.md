@@ -32,7 +32,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
 - Learn more about me: <a href='#'>Visit Bio</a>
-- I had a very tough childhood and it led to a life full of hardships. As a result, I have a pretty bad focus problem that hinders my performance, hence the assessments don't reflect my true ability. Starting my career and doing something I'm passionate about will definitely help and improve my condition!
+- I had a very tough childhood and it led to a life full of hardships. As a result, I have a pretty bad focus problem. I lost many career opportunities and chances to form cherishable relationships because I phased out and looked uninterested/indifferent or seemed very slow/dumb, but the truth is I just lost focus while it was happening.... Of course, it hindered my performance on all exams, hence the cognitive assessments don't reflect my true ability. Starting my career in softwar engineering and doing something I'm passionate about will definitely help and improve my condition! Words are hard to describe, but I know for sure I just need to channel my passion in a meaningful career.
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jay-clyh-Lee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuntian-yang-b59606b7//)  
 
