@@ -28,7 +28,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 - 📫 How to reach me: jayclyhli@gmail.com. Please let me know you found my email on Github
 - ⚡ Fun fact: I'm a gamer, and I'm pretty good at it competitively.
 - 🍔 I have ACEburgers(Aspergers)...
-- 🎁 Another fact: I am gifted!😊(Sure it's good a trait, but it can be terrible at the same time. The point here is I just want to show that I can learn whatever to do a great job at work, and usually pretty fast!)
+- 🎁 Another fact: I am gifted!😊(Sure it's good a trait, but it can be terrible at the same time. The point here is I want to show that I can learn whatever to do a great job at work, and usually pretty fast!)
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/IQ%201-5-2022.png' alt='IQ_cert' height='50'>
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/Mensa%20Practice%20Challenge.png' alt='mensa' height='50'>
 - <a href='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/tree/main/Cognitive%20Test%20Scores'>See all cognitive tests I took</a>
