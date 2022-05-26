@@ -16,6 +16,10 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 * 👍 VSCode, STS(Spring), MySQL Workbench, Git, Git Bash, Linux, VIM, Jupyter Notebook, Anaconda Spyder, AWS EC2, S3, Lambda, RedShift, ...
 * 👌 Eclipse, NetBeans, PyCharm, JetBrains, RStudio, Tableau, JMP, MiniTab, Excel, Ignition, 
 
+## Education:
+* Masters in Statistics
+* Bachelors in Mathematics
+
 ## Example and Work:
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
 
