@@ -24,13 +24,13 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 <a href="http://54.241.156.1">Artist Paintings live link</a> (This was a belt exam(final stack exam) from Coding Dojo bootcamp, score was 10/10)
 
 ## About Me:
-- 🔭 I’m currently working as a software engineer
-- 🌱 I’m currently learning full-stack application development 
-- 👯 I’m looking for a full-time software/AI engineer or data scientist position. I'd also be happy to collaborate on real-life projects
-- 🤔 Gaming! 
-- 💬 Ask me about anything
-- 📫 How to reach me: jayclyhli@gmail.com. Please let me know if you found me on GitHub
-- ⚡ Fun Fact:
+- 🔭 I’m currently working as a software engineer.
+- 🌱 I’m currently learning full-stack AI application development.
+- 👯 I’m looking for a full-time software/AI engineer or data scientist position. I'm looking for collaboration on real-life projects.
+- 🤔 Hobby: Gaming! I'm good at it!
+- 💬 You are welcome to reach me!
+- 📫 How to reach me: jayclyhli@gmail.com. Please let me know if you found me on GitHub.
+  
 <!---
 - 🎁 Another fact: I am gifted!😊(Sure it's good a trait, but it can be terrible at the same time. The point here is I want to show that I can learn whatever to do a great job at work, and usually pretty fast!)
 - <img src='https://github.com/Jay-clyh-Lee/Jay-clyh-Lee/blob/main/Cognitive%20Test%20Scores/IQ%201-5-2022.png' alt='IQ_cert' height='50'>
