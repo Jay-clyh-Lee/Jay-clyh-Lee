@@ -17,6 +17,7 @@ I am a full-stack developer student at Coding Dojo, San Jose. I like developing 
 * 👌 Eclipse, NetBeans, PyCharm, JetBrains, RStudio, Tableau, JMP, MiniTab, Excel, Ignition, 
 
 ## Education:
+* Certificates (black-belts) in Software Development from Coding Dojo
 * Masters in Statistics
 * Bachelors in Mathematics
 
